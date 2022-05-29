@@ -25,6 +25,7 @@ Lien d'accès vers le site internet :
 
 # Problèmes rencontrés
 Connexion Google : Il arrive que nous n'arrivions pas à détecter l'ID lors de la connexion Google, il faut alors recharger la page
+
 Bouton Google : Parfois, lorsqu'on est déconnecté et qu'on souhaite se connecter, el bouton Google ne s'affiche pas, dans ce cas là, appuyer sur F5 devrait résoudre le problème
 
 # Conclusion
