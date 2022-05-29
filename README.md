@@ -7,8 +7,9 @@ Ce fichier README va vous présenter les fonctions réalisées dans le cadre de 
 Projet réalisé par ANDRE Louis, LE NY Yoann, DAVID Alexis.
 
 # Liens d'accès
-Lien d'accès vers l'API : 
-Lien d'accès vers le site internet :
+Lien d'accès vers l'API : https://petcloudproject.nw.r.appspot.com/
+
+Lien d'accès vers le site internet : https://petcloudproject.nw.r.appspot.com/pet_site/petApp.html#!/
 
 # Fonctions réalisées
 - Ajouter une pétition
