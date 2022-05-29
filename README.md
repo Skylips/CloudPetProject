@@ -23,7 +23,7 @@ Lien d'accès vers le site internet : https://petcloudproject.nw.r.appspot.com/p
 - Se connecter via Google
 - Voir mes pétitions
 - Se déconnecter
-- 
+
 # Images du datastore
 Entité Petition
 
