@@ -28,6 +28,8 @@ Connexion Google : Il arrive que nous n'arrivions pas à détecter l'ID lors de 
 
 Bouton Google : Parfois, lorsqu'on est déconnecté et qu'on souhaite se connecter, el bouton Google ne s'affiche pas, dans ce cas là, appuyer sur F5 devrait résoudre le problème
 
+Affichage top 100 pétitions : Nous avons rencontrés des difficultés à afficher 100 pétitions, nous nous sommes donc restreint à 10 pétitions pour le top 10.
+
 # Conclusion
 Ce projet nous a permis de mettre en pratique des notions vues en cours (scalabilité, utilisation d'API, etc...).
 L'organisation choisie et appliquée dans notre groupe pour ce projet a été de faire les grosses mises en commun / réunions lors des weekends, et d'avancer au maximum dans la documentation et le developpement lors des fin de journée, après nos stages.
