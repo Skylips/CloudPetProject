@@ -26,11 +26,17 @@ Lien d'accès vers le site internet : https://petcloudproject.nw.r.appspot.com/p
 - 
 # Images du datastore
 Entité Petition
+
 ![image](https://user-images.githubusercontent.com/77157131/170880012-924fbf57-bacb-4eed-b085-924049c37d08.png)
+
 Entité Signature
+
 ![image](https://user-images.githubusercontent.com/77157131/170880027-3b78f7ed-84ec-4634-ac87-b1352932b90b.png)
+
 Entité User
+
 ![image](https://user-images.githubusercontent.com/77157131/170880043-85b63ff2-6060-4f60-bb97-224901786d09.png)
+
 
 # Problèmes rencontrés
 Connexion Google : Il arrive que nous n'arrivions pas à détecter l'ID lors de la connexion Google, il faut alors recharger la page
